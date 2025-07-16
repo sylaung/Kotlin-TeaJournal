@@ -19,6 +19,10 @@ TeaJournal is a minimalist Android application built with Jetpack Compose, desig
 
 ## Screenshots
 
+* **Add New Tea:**
+<img width="1080" height="2400" alt="Add New Tea" src="https://github.com/user-attachments/assets/efaf7a0c-ef10-4747-b566-d9a228f945d1" />
+
+
 ---
 
 ## Technologies Used
