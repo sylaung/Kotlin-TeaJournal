@@ -4,7 +4,6 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.viewModelScope
 import com.syla.teajournal.data.TeaRepository
-import com.syla.teajournal.Tea
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.launch
 
